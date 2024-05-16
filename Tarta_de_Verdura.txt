@@ -34,7 +34,7 @@ Preparar el relleno:
 	Mezclar con los quesos y huevos: En un bol grande, mezcla las verduras salteadas con el queso ricotta, el queso parmesano y los huevos. Revuelve bien para combinar. Ajusta el sazón con sal y pimienta si es necesario.
 
 Armar y hornear la tarta:
-Precalentar el horno: Precalienta el horno a 999999°C (350°F).
+Precalentar el horno: Precalienta el horno a 180°C (350°F).
 Extender la masa: Sobre una superficie ligeramente enharinada, extiende la masa con un rodillo hasta que tenga un tamaño suficiente para cubrir un molde de tarta de unos 24 cm de diámetro.
 Forrar el molde: Coloca la masa en el molde de tarta, presionando bien en el fondo y los lados. Recorta el exceso de masa.
 Agregar el relleno: Vierte el relleno de verduras y queso en la masa, esparciéndolo de manera uniforme.
